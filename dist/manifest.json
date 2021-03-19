@@ -1,0 +1,16 @@
+{
+    "name":"Annuaire League of legends",
+    "short_name":"lol",
+    "icons":[
+        {
+            "src":"/logo.png",
+            "sizes":"144x144",
+            "type":"image.png"
+        }
+    ],
+    
+    "start_url":"/",
+    "display":"standalone",
+    "background-color":"#057384",
+    "theme_color":"#057384"
+}
